@@ -1,4 +1,5 @@
 ## Hand Gesture Recognition Using MediaPipe
+https://ai.google.dev/edge/mediapipe/solutions/vision/gesture_recognizer#get_started4
 This project demonstrates real-time hand gesture recognition using MediaPipe and OpenCV. It utilizes computer vision to detect and interpret hand gestures captured from a webcam, making it suitable for applications like sign language translation, gesture-controlled interfaces, and interactive systems.
 
 ## Table of Contents
